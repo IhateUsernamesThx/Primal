@@ -74,3 +74,7 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 Primal/Saved/Config/CrashReportClient
+Primal/Intermediate/CachedAssetRegistry_0.bin
+Primal/Saved/Config/WindowsEditor
+Primal/Saved/Logs
+Primal/Saved/Telemetry

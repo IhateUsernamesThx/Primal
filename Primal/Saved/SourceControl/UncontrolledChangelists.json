@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"G:/UnrealProjects/Primal/Primal/Content/VFX/poof-0001-Sheet.uasset",
+				"G:/UnrealProjects/Primal/Primal/Content/VFX/M_StepDust.uasset",
+				"G:/UnrealProjects/Primal/Primal/Content/VFX/NS_StepDust1.uasset",
+				"G:/UnrealProjects/Primal/Primal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/3L/93K7O2SXHTI2YK243YDGAD.uasset",
 				"C:/Users/shayg/OneDrive/Documents/Unreal Projects/Primal/Content/Characters/Fang/M_Fang.uasset",
 				"C:/Users/shayg/OneDrive/Documents/Unreal Projects/Primal/Content/Materials/PostProcess/PP_OutlineShader.uasset",
 				"C:/Users/shayg/OneDrive/Documents/Unreal Projects/Primal/Content/Materials/PostProcess/Functions/MF_GetKernel.uasset",
